@@ -1,1 +1,1 @@
-Deriving the Einstein's coefficients form the Jaynes-Cummings Model
+Deriving the Einstein's coefficient
